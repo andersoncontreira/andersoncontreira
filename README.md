@@ -63,7 +63,8 @@ I am currently working as a Senior full stack Software Engineer at [Rocket Lawye
   - RabbitMQ (learning) and Kafka (learning);
 
 
-![Anderson Contreira's Github Stats](https://github-readme-stats.vercel.app/api?username=andersoncontreira&show_icons=true&theme=radical)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersoncontreira)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=andersoncontreira)
 
