@@ -1,66 +1,29 @@
 ## Hi there, I am Anderson Contreira 👋
 
-I am a Solutions and Software Architect with 6 years of team management experience in agile environments. 
-With a background in IT since 2008, I bring cloud expertise in AWS (7 years) and Google Cloud (1 year), along with 
-extensive development experience in PHP (15 years), JavaScript (15 years), Node.js (7 years), Python (5 years), 
-Java (6 years), and TypeScript (4 years). I am eager to contribute to a company involved in international projects, 
-helping it scale and solve complex challenges.
+### Professional Interest
+Staff Software Engineer, Tech Leader, or Senior Software Engineer
 
-I have led the development of technical solutions, collaborating with PMs and POs to deliver technology products 
-aligned with business needs. I have also guided the transition of legacy services to microservices for improved 
-scalability and performance. Additionally, I trained teams on software engineering best practices, 
-conducted research on new technologies, and led system architecture evolutions into distributed architectures while 
-fostering a DevOps culture.
+### Professional Summary
+I am Solutions and Software Architect with 6+ years of team leadership experience in agile environments and a solid background in IT since 2008. I am specialized in designing distributed, scalable systems and driving digital transformation through modern cloud-based architectures. Strong hands-on expertise with AWS (7+ years) and Google Cloud (2+ years), complemented by a deep full-stack development background across multiple languages and frameworks.
+Throughout my career, I have led the development of end-to-end technical solutions in collaboration with product teams, migrated legacy systems to microservices, and fostered DevOps practices to improve delivery and reliability. Experienced in mentoring developers, improving engineering workflows, and aligning technical outcomes with business objectives.
+I am proficient in English, Spanish, and Portuguese. I am passionate about working on international projects and contributing to impactful, scalable, and innovative solutions.
 
-I am proficient in English, Spanish, and Portuguese and passionate for learning and sharing knowledge. 
-I am always looking for new challenges and opportunities to grow.
-
-I'm open to discussing potential job offers.
-
-## Technical Skills and Knowledge
-
-- Team management and training;
-- Agile methodology for conducting tasks and projects;
-- Design of technical solutions and cost calculation of software proposals;
-- Implementation of distributed and scalable architectures;
-- Research of new technologies and elaboration of POCs and RFCs;
-- Software development and testing;
-- Devops Culture: CI/CD (AWS, GCP, Jenkins, Github), IaaC (Terraform), Monitoring, Logging, and Security;
-- Debugging, TDD, best practices, design patterns, and architectural patterns;
-- Development using containers with Docker, Kubernetes and AWS Fargate/ECS;
-- Fullstack: Backend (specialist) and Frontend (generalist);
-
-## Technologies
-- Programming languages: 
-  - Python:
-    - Flask, FastAPI, Chalice, and learning Django;
-  - PHP:
-    - Laravel, Symfony, Laminas;
-  - Javascript/Typescript:
-    - Node.js, Express, and learning NestJS;
-    - React, Stencil.js, Vue, Stencil.js; 
-  - Java:
-    - Spring, Spring Boot, JPA, Hibernate;
-  - Go:
-    - Gin (learning);
-- Servers: 
-  - Nginx, Apache, and JBoss;
-- Databases:
-  - Relational:
-    - MySQL, PostgresSQL and SQL Server;
-  - Non-relational databases:
-    - MongoDB, DynamoDB, and Redis;
-  - Others:
-    - Elasticsearch;
-- Infrastructure:
-  - AWS:
-    - EC2, RDS, S3, Lambda, API Gateway, CloudFront, CloudWatch, CloudFormation, and others;
-  - Google Cloud:
-    - Cloud Functions, Cloud Run, Cloud Storage, Cloud SQL, and others;
-  - Docker, Kubernetes, and Terraform;
-- Event-driven/Messaging tools:
-  - AWS Firehose, Kinesis, SNS and SQS;
-  - RabbitMQ (learning) and Kafka (learning);
+### Core Competencies and Technical Skills
+**Leadership:** 6+ years leading agile teams and training developers.
+**Cloud Architecture:** 7+ years with AWS and 2+ years with GCP.
+**Software Development:** Specialist in backend and generalist in frontend development.
+**DevOps & CI/CD:** GitHub Actions, Jenkins, IAC with Terraform, AWS Fargate, Docker, ECS, Kubernetes.
+**Architecture & Design:** Microservices, event-driven systems, distributed architecture, cost-effective solution design.
+**Best Practices:** TDD, debugging, design/architectural patterns, clean code, software engineering standards.
+**Communication:** Clear communicator with cross-functional collaboration experience.
+**Frontend:** Experience with React and Stencil.js.
+**Backend:** Python, PHP, Java, Node.js, JavaScript, TypeScript, Go (learning).
+**Frameworks:** Spring, Express, Chalice, Flask, Laminas, Laravel, Symfony.
+**Databases:** Relational and non-relational (SQL, NoSQL), data caching solutions.
+**Cloud & Containers:** AWS, GCP (intermediate), Docker, Fargate, ECS, Kubernetes.
+**Web Servers:** Nginx, Apache, JBoss.
+**Tools & Practices:** POCs, RFCs, performance optimization, Agile/Scrum methodologies.
+**Studying:** Kubernetes, messaging tools (Kafka, RabbitMQ), advanced cloud automation.
 
 
 
