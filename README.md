@@ -15,7 +15,7 @@ fostering a DevOps culture.
 I am proficient in English, Spanish, and Portuguese and passionate for learning and sharing knowledge. 
 I am always looking for new challenges and opportunities to grow.
 
-I am currently working as a Senior full stack Software Engineer at [Rocket Lawyer](https://www.rocketlawyer.com/).
+I'm open to discussing potential job offers.
 
 ## Technical Skills and Knowledge
 
